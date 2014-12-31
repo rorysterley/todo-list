@@ -1,7 +1,7 @@
-Todo
-====
+To Do List
+==========
 
-A simple web page using jQuery to create a functional todo list.
+A simple web page using jQuery to create a functional to do list.
 
 
 Contributing to this Project
